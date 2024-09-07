@@ -1,0 +1,31 @@
+Assamese (asm_Beng)		       
+Bengali (ben_Beng)		
+Bodo (brx_Deva)	       	               
+Dogri (doi_Deva)		               
+English (eng_Latn)		
+Konkani (gom_Deva)		
+Gujarati (guj_Gujr)		
+Hindi (hin_Deva)		
+Kannada (kan_Knda)		
+Kashmiri (Arabic) (kas_Arab)
+Kashmiri (Devanagari) (kas_Deva)
+Sanskrit (san_Deva)
+Punjabi (pan_Guru)
+Malayalam (mal_Mlym)
+Odia (ory_Orya)
+Nepali (npi_Deva)
+Maithili (mai_Deva)
+Santali (sat_Olck)
+Sindhi (Arabic) (snd_Arab)
+Marathi (mar_Deva)
+Manipuri (Bengali) (mni_Beng)
+Sindhi (Devanagari) (snd_Deva)
+Tamil (tam_Taml)
+Manipuri (Meitei) (mni_Mtei)
+Telugu (tel_Telu)
+Urdu (urd_Arab)
+
+
+
+
+
